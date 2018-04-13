@@ -41,3 +41,8 @@ To overcome Installation issues use the following commands
     $sudo npm install --unsafe-perm -g yo
 
     $sudo npm install --unsafe-perm -g composer-playground
+    
+    
+  
+  yo--problems
+    https://gist.github.com/Jay991/4275c5e5f11741a7f9b3743da3110976
