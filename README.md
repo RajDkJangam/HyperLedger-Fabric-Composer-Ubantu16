@@ -26,3 +26,6 @@ https://www.informatik-aktuell.de/betrieb/virtualisierung/eine-blockchain-anwend
 
 Getting started with Hyperledger Composer and private blockchains 
 https://dev.to/damcosset/getting-started-with-hyperledger-composer-and-private-blockchains--36ab
+
+
+To overcome composer cli installion use $sudo npm install --unsafe-perm -g composer-cli 
