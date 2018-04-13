@@ -32,8 +32,12 @@ To overcome Installation issues use the following commands
 
 
 
-$sudo npm install --unsafe-perm -g composer-cli
-$sudo npm install --unsafe-perm -g composer-rest-server
-$sudo npm install --unsafe-perm -g generator-hyperledger-composer
-$sudo npm install --unsafe-perm -g yo
-$sudo npm install --unsafe-perm -g composer-playground
+    $sudo npm install --unsafe-perm -g composer-cli
+
+    $sudo npm install --unsafe-perm -g composer-rest-server
+
+    $sudo npm install --unsafe-perm -g generator-hyperledger-composer
+
+    $sudo npm install --unsafe-perm -g yo
+
+    $sudo npm install --unsafe-perm -g composer-playground
