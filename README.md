@@ -28,4 +28,12 @@ Getting started with Hyperledger Composer and private blockchains
 https://dev.to/damcosset/getting-started-with-hyperledger-composer-and-private-blockchains--36ab
 
 
-To overcome composer cli installion use $sudo npm install --unsafe-perm -g composer-cli 
+To overcome Installation issues use the following commands
+
+
+
+$sudo npm install --unsafe-perm -g composer-cli
+$sudo npm install --unsafe-perm -g composer-rest-server
+$sudo npm install --unsafe-perm -g generator-hyperledger-composer
+$sudo npm install --unsafe-perm -g yo
+$sudo npm install --unsafe-perm -g composer-playground
