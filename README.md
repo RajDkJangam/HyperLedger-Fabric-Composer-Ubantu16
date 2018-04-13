@@ -46,3 +46,8 @@ To overcome Installation issues use the following commands
   
   yo--problems
     https://gist.github.com/Jay991/4275c5e5f11741a7f9b3743da3110976
+    
+    
+  complete installation video 
+https://asciinema.org/a/lMqYXEitrKFNgtxVP1z9DC6uT
+
